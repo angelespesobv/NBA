@@ -1,2 +1,2 @@
 # NBA
-Analysis of NBA Data using nbastatR and NBA API. 
+Analysis of NBA Data using NBA API. 
