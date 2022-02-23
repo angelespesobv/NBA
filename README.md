@@ -1,2 +1,2 @@
 # NBA
-Analysis of NBA Data using NBA API. 
+Analysis of NBA Data using nba_api. 
